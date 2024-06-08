@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #4d4d4d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: sans-serif;
+}
+
+button {
+  border: 2px solid #ffff00;
+  outline: none;
+  color: #ffffff;
+  background-color: #000000;
+  padding: 10px 15px;
+  box-shadow: 0 0 10px 0px #ffff00;
+  border-radius: 5px;
+}

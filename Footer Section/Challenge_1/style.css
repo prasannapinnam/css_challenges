@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+footer {
+  padding-bottom: 20px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+hr {
+  margin-bottom: 20px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+}
+
+h4,
+p {
+  margin: 15px 0;
+}
+
+.heading {
+  margin-left: 10vw;
+}
